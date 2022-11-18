@@ -31,7 +31,7 @@ Seperti rantai Cosmos-SDK lainnya, persyaratan perangkat kerasnya cukup sederhan
 ###  Opsi 1 (otomatis)
 Anda dapat mengatur gitopia fullnode Anda dalam beberapa menit dengan menggunakan skrip otomatis di bawah ini. Ini akan meminta Anda untuk memasukkan nama simpul validator Anda!
 ```
-wget -O gitopia.sh https://raw.githubusercontent.com/OneNov/gitopia/main/gitopia.sh && chmod +x gitopia.sh && ./gitopia.sh
+wget -O gitopia.sh https://raw.githubusercontent.com/bangpateng/gitopia/main/gitopia.sh && chmod +x gitopia.sh && ./gitopia.sh
 ```
 
 ##  Pasang instalasi
